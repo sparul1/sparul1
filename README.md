@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Parul
 
-<!--
-**sparul1/sparul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | DevOps Enthusiast | Cloud Learner  
+📍 India | 🛠 Currently diving deep into Golang + Kubernetes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- Creating production-like microservices in **Golang**
+- Containerizing apps using **Docker**
+- Deploying on **Kubernetes (EKS)** with real-world architecture
+
+---
+
+### 🌱 I’m currently learning:
+- 🧠 Golang concurrency, interfaces, patterns
+- 🐳 Docker & Kubernetes (ConfigMaps, Secrets, Deployments)
+- 🐧 Linux tools like `grep`, `sed`, `awk`, `journalctl`, `crontab`
+- ☁️ AWS Cloud services & CI/CD pipeline concepts
+
+---
+
+### 💬 Ask me about:
+- CI/CD pipelines, backend development in Node.js, Python & Go
+- Docker & Kubernetes basics
+- Infrastructure automation
+- Linux shell commands
+
+---
+
+### 📫 How to reach me:
+📧 Email: parulshri48@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/parulshri48/
+
+---
+
+### 📈 GitHub Stats
+
+![Parul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true_
