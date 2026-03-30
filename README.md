@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=sparul1&label=Profile%20views&color=0e75b6&style=flat" alt="sparul1" /> 
 </p>
 
-- 🔭 I’m currently building **Golang-based microservices**
-- 🌱 Learning **Kubernetes, Docker, Linux, and AWS**
-- 💬 Ask me about **Go concurrency, CI/CD, Docker, Git & Linux commands**
+- 🔭 I’m currently building **Python and cloud based microservices**
+- 🌱 Learning **Agentic AI, RAG and LLMs**
+- 💬 Ask me about **Microservices architecture and good practices**
 - 📫 Reach me at **parulshri48@gmail.com**
-- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/parulshri48/))
+- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/parulshri48/)
 - 🧮 Solve problems with me on [LeetCode]([https://leetcode.com/Paruls28](https://leetcode.com/u/Paruls28/))
 
 ---
